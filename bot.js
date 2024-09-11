@@ -2,6 +2,6 @@ const bedrock = require('bedrock-protocol')
 const client = bedrock.createClient({
   host: 'FriendliesS1.aternos.me',   
   port: 31991,         // optional, default 19132
-  username: 'A1Plays',   // the username you want to join as, optional if online mode
+  username: 'A1Playes',   // the username you want to join as, optional if online mode
   offline: true       // optional, default false. if true, do not login with Xbox Live. You will not be asked to sign-in if set to true.
 })
